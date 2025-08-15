@@ -1,7 +1,7 @@
 {
   "name": "augmented-reality-kunst-tour",
   "version": "1.0.0",
-  "description": "Eine Augmented Reality App, die Nutzern ermöglicht, Kunstwerke in ihrer Umgebung zu erkunden und mehr über die Künstler zu erfahren.",
+  "description": "An Augmented Reality app that allows users to explore artworks in their surroundings and learn more about the artists.",
   "main": "index.js",
   "scripts": {
     "start": "react-native start",
