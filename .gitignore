@@ -1,2 +1,5 @@
+# Ignoriere node_modules-Verzeichnis
 node_modules/
+
+# Ignoriere Umgebungsvariablen
 .env
