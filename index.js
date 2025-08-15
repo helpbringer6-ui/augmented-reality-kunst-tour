@@ -6,4 +6,5 @@ import App from './src/App';
 import { name as appName } from './app.json';
 
 // Registriere die Hauptkomponente der App unter dem angegebenen Namen
+// Dies ist der Einstiegspunkt der Anwendung.
 AppRegistry.registerComponent(appName, () => App);
