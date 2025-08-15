@@ -5,5 +5,5 @@ import App from './src/App';
 // Importiere den Anwendungsnamen aus der Konfigurationsdatei
 import { name as appName } from './app.json';
 
-// Registriere die Hauptkomponente der App
+// Registriere die Hauptkomponente der App unter dem angegebenen Namen
 AppRegistry.registerComponent(appName, () => App);
