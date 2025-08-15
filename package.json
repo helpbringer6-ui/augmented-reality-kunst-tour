@@ -17,5 +17,6 @@
   "devDependencies": {
     "jest": "^26.6.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/user/augmented-reality-kunst-tour"
 }
